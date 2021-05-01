@@ -15,7 +15,8 @@ it using Heroku, pythonaywhere  platforms.
 
 # To download project on your system
 git clone https://github.com/harshagarwal2245/EmployeeAttrition.git
-pip install -r requirments.txt
+2. pip install -r requirments.txt
+this will create all files on your system and that it we are ready to go
 
 # To run app
 1. open command prompt
