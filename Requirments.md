@@ -6,3 +6,5 @@ Uvicorn==0.13.1
 FastApi==0.62.0
 Matplotlib==3.3.3
 Seaborn==0.11.1
+RISE
+
