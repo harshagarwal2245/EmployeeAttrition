@@ -12,3 +12,7 @@ for data science applications. It lies between Django and flask. It also provide
 to focus on code. Next, I had created a function that will take inputs and give a prediction for which I had used the model
 that I saved I had used the joblib package to read the model after that send the result to API. The last part of the project is to deploy
 it using Heroku, pythonaywhere  platforms.
+
+# To run app
+1. open command prompt
+2. uvicorn main:app --reload
