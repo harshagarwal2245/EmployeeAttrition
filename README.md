@@ -22,7 +22,7 @@ this will create all files on your system and that it we are ready to go
 1. open command prompt
 2. uvicorn main:app --reload
 3. open browser and type 127.0.0.1:8000/docs
-It will start sqagger ui which will use to test app
+It will start swagger ui which will use to test app
 4. Select predict function
 5. Click on Try It out!
 6. and Enter Value and click on Execute function
