@@ -13,6 +13,16 @@ to focus on code. Next, I had created a function that will take inputs and give 
 that I saved I had used the joblib package to read the model after that send the result to API. The last part of the project is to deploy
 it using Heroku, pythonaywhere  platforms.
 
+# To download project on your system
+git clone https://github.com/harshagarwal2245/EmployeeAttrition.git
+pip install -r requirments.txt
+
 # To run app
 1. open command prompt
 2. uvicorn main:app --reload
+3. open browser and type 127.0.0.1:8000/docs
+It will start sqagger ui which will use to test app
+4. Select predict function
+5. Click on Try It out!
+6. and Enter Value and click on Execute function
+7. and you will get Your result
